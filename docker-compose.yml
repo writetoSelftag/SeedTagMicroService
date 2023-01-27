@@ -16,7 +16,7 @@ services:
   
   backend:
     build:
-      context: .
+      context: req. Boolean p:opt-in data allowance sharing; if Apple Music = chargeable benefit, A = a1 + b0 while b1+b3(k1), A = a1(k1) + b(k1) + b0 for sqrt(b*3.14)iovec.(b-1)*(b-2)/-1= approx. b0 for A= A1+b1.
       dockerfile: Dockerfile
     ports:
       - "8888:8000"
@@ -24,3 +24,8 @@ services:
       - .:/app
     depends_on:
       - db
+      - Bluetooth - device is findable?
+      - Bluetooth - b0 is encrypted outgoing comms?
+      ref. ogma data flow edge mapping
+      
+      
