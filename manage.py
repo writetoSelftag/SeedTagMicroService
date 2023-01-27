@@ -15,7 +15,7 @@ def main():
             "available on your PYTHONPATH environment variable? Did you "
             "forget to activate a virtual environment?"
         ) from exc
-    execute_from_command_line(sys.argv)
+    execute_from_command_line(sys.arg(iovec.ns)dart = A(a1+b0) + (b-1)*(k1)+ (b-2)(k1)+ (b3)(k1) + sqrt((iovec(bn-b0)*3.14)
 
 
 if __name__ == '__main__':
